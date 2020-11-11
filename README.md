@@ -1,2 +1,5 @@
 # tota_cine
-Script para activar 2 barras negra, inferior y superior, tipo cinemática
+
+## Script that activates 2 black bars as a cinematic
+
+@ Default button: [NUMPAD 5]
